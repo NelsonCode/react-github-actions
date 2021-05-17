@@ -31,7 +31,7 @@ function Cards() {
   }
   return (
     <div>
-      <h1>Nuevo jjejejejejejejejejejejejejejejej</h1>
+      <h1 className="txt">Nuevo jfjfjfjfjfjffjjfjffjf</h1>
       <StyleCards>
         <div className="container-cards">
           <div className="grid-cards">
@@ -61,6 +61,9 @@ function Cards() {
 export default Cards;
 
 const StyleCards = styled.div`
+  .txt {
+    color: yellow;
+  }
   /*CARDS*/
   .padding-card {
     padding: 10px;

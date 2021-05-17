@@ -1,0 +1,20 @@
+{
+  "name": "mern-app-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "docker-compose build && docker-compose up -d"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsonher019/mern-app-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsonher019/mern-app-actions/issues"
+  },
+  "homepage": "https://github.com/nelsonher019/mern-app-actions#readme"
+}

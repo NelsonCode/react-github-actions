@@ -31,7 +31,7 @@ function Cards() {
   }
   return (
     <div>
-      <h1>Nuevo jfjfjfjfjfjffjjfjffjf</h1>
+      <h1>Nuevo</h1>
       <StyleCards>
         <div className="container-cards">
           <div className="grid-cards">
